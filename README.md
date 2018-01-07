@@ -7,10 +7,10 @@ Licensed under a Creative Commons attribution-noncommercial license.
 You can find it at [eloquentjavascript.net](http://eloquentjavascript.net/)
 --------------------------------
 ## HOW TO
-+ Download the repository
-+ Set the good file in the script section of the index.html (show below)
-+ launch the index.html in your browser
-+ Open the console ctrl + maj + 'i'
+1. Download the repository
+2. Set the good file in the script section of the index.html (show below)
+3. launch the index.html in your browser
+4. Open the console ctrl + maj + 'i'
 
 ## CHAPTERS PROGRESSION    
 
