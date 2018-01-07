@@ -15,21 +15,21 @@ You can find it at [eloquentjavascript.net](http://eloquentjavascript.net/)
 ## CHAPTERS PROGRESSION    
 
 ### CHAPTER 2
-01_loopingATriangle.js
-02_FizzBuzz.js
-03_chessBoard.js
++ 01_loopingATriangle.js    
++ 02_FizzBuzz.js     
++ 03_chessBoard.js    
 
 ### CHAPTER 3
-04_minimum.js
-05_Recursion.js
-06_bean_counting.js
++ 04_minimum.js    
++ 05_Recursion.js
++ 06_bean_counting.js
 
 ### CHAPTER 4
-07_The_sum_of_a_range.js
-08_Reversing_an_array.js
-09_A_list.js
-10_Deep_comparison.js
++ 07_The_sum_of_a_range.js
++ 08_Reversing_an_array.js
++ 09_A_list.js
++ 10_Deep_comparison.js
 
 ### CHAPTER 5
-11_Flattening.js
-12_Mother_child_age_difference.js
++ 11_Flattening.js
++ 12_Mother_child_age_difference.js
