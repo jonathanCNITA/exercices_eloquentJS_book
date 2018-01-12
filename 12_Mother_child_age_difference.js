@@ -61,14 +61,12 @@ function motherAge(data) {
   return ages;
 }
 
-//console.log(motherAge(ANCESTRY_FILE));
-
 function average(arr) {
   return arr.reduce(function(a, b) { return a+b;}) / arr.length;
 }
 
 
-console.log( average(motherAge(ANCESTRY_FILE)));
-
-
 //-------------------------------- TESTS
+
+//console.log(motherAge(ANCESTRY_FILE));
+console.log( average(motherAge(ANCESTRY_FILE)));
